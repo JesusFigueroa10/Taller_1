@@ -44,6 +44,10 @@ footer {
     padding-bottom: 8px;
 }
 
+.color {
+    color: white;
+}
+
 /* INTERFAZ 2 */
 .imagen2 {
     margin-left: 15px;
@@ -57,3 +61,26 @@ p {
     text-align: justify;
 }
 
+button {
+    font-size: 25px;
+    padding: 5px 25px 5px 25px;
+    outline: none;
+    color: white;
+    border-radius: 20px;
+    margin-top: 8px;
+    margin-left: 600px;
+    margin-bottom: 20px;
+    background-color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+button:hover {
+    background-color: gray;
+    cursor: pointer;
+}
+
+.texto {
+    margin-top: 10px;
+    width: 700px;
+    word-wrap: break-word;
+}
