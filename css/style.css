@@ -43,3 +43,17 @@ footer {
     padding-top: 8px;
     padding-bottom: 8px;
 }
+
+/* INTERFAZ 2 */
+.imagen2 {
+    margin-left: 15px;
+    margin-top: 27px;
+    margin-bottom: 15px;
+    height: 330px;
+    width: 3000px;
+}
+
+p {
+    text-align: justify;
+}
+
